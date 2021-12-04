@@ -5,7 +5,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/walid-az7)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/WALIDAZHARI)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walid-azhari-509ba61a5/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/walid.azhari_2000/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:walidazhari519@gmail.com)
@@ -32,7 +32,7 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/walid-az7/github-readme-stats
 --> 
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
+  <a href="https://github.com/WALIDAZHARI">
     <img width="50%" align="right" alt="Walid's github stats" src="https://github-readme-stats.vercel.app/api?username=walid-az7&show_icons=true&hide_border=true" />
   </a>
   
