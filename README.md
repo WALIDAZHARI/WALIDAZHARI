@@ -30,7 +30,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Your github readme stats
 You can use this api: https://github.com/walid-az7/github-readme-stats
--->
+--> 
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
     <img width="50%" align="right" alt="Walid's github stats" src="https://github-readme-stats.vercel.app/api?username=walid-az7&show_icons=true&hide_border=true" />
